@@ -1,3 +1,24 @@
+
+# angular-google-place FORK
+The fixed package of angular-google-place to use a source for npm scripts
+
+
+## Install
+`npm i --save angular-google-place-package`
+
+
+## Thanks
+
+Originally published here: https://github.com/psykolm22/angular-google-place
+
+Fixed here: https://github.com/lujakob/angular-google-place-package
+
+Npm: https://www.npmjs.com/package/angular-google-place-package
+
+
+-----------------------------
+
+
 # angular-google-place
 This is a Angular-Google-Place Module publish with Angular Format Package ( ng-packgr)
 
