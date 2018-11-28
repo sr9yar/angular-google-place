@@ -1,6 +1,6 @@
 
 # angular-google-place FORK
-The fixed package of angular-google-place to use a source for npm scripts
+A fixed package of angular-google-place to use a source for npm scripts
 
 
 ## Install
@@ -14,6 +14,8 @@ Originally published here: https://github.com/psykolm22/angular-google-place
 Fixed here: https://github.com/lujakob/angular-google-place-package
 
 Npm: https://www.npmjs.com/package/angular-google-place-package
+
+
 
 
 -----------------------------
